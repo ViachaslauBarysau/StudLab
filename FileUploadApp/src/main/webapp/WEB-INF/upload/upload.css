@@ -1,0 +1,56 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 150px);
+    grid-auto-rows: 150px;
+    grid-gap: 1em;
+
+}
+
+div.cell {
+    border: 1px solid #212941;
+    align-self: center;
+    justify-self: center;
+}
+
+div.cell:hover {
+    border: 2px solid #568967;
+}
+
+
+div.cell img {
+    max-width: 140px;
+    max-height: 140px;
+}
+
+.imagepreview {
+    max-width: 600px;
+    max-height: 600px;
+}
+
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.8);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
