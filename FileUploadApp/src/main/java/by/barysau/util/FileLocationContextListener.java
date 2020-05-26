@@ -14,7 +14,7 @@ public class FileLocationContextListener implements ServletContextListener {
     public void contextInitialized(ServletContextEvent servletContextEvent) {
 
         log.info("Getting upload folder path...");
-
+ //        String uploadPath = "uploadedimages" + File.separator;
         String uploadPath = System.getProperty("user.dir") + File.separator + "src" + File.separator + "main" +
                 File.separator + "webapp" + File.separator + "uploadedimages" + File.separator;
         File uploadDir = new File(uploadPath);

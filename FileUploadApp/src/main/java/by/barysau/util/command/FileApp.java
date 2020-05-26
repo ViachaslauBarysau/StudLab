@@ -1,8 +1,7 @@
 package by.barysau.util.command;
 
-import lombok.*;
+import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
-import org.slf4j.Marker;
 
 import javax.servlet.http.Part;
 import java.io.*;
@@ -11,7 +10,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.logging.Level;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 

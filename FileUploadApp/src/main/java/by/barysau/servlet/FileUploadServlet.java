@@ -14,8 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.Part;
 import java.io.IOException;
 
-
-@WebServlet(displayName = "FileUploadFilter", urlPatterns = {"/upload", "/index.jsp"})
+@WebServlet(urlPatterns = {"/upload", "/index.jsp"})
 @MultipartConfig
 public class FileUploadServlet extends HttpServlet {
 
