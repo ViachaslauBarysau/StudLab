@@ -5,11 +5,11 @@
       <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/jetty-runner-9.4.29.v20200521.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/logs_2020-05-25.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logs_2020-05-25.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/logs_2020-05-29.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logs_2020-05-29.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/barysau/servlet/FileUploadServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/barysau/servlet/FileUploadServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/barysau/util/FileLocationContextListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/barysau/util/FileLocationContextListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/upload.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/upload.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/upload/upload.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/upload/upload.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/FileUploadApp.war" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/FileUploadApp/WEB-INF/classes/by/barysau/service/DoGetService.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/FileUploadApp/WEB-INF/classes/by/barysau/service/DoPostService.class" beforeDir="false" />
@@ -78,27 +78,8 @@
       <change beforePath="$PROJECT_DIR$/target/FileUploadApp/uploadedimages/doh.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/FileUploadApp/uploadedimages/java-collection-hierarchy (1).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/FileUploadApp/uploadedimages/woohoo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/service/DoGetService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/service/DoPostService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/service/impl/DoGetServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/service/impl/DoPostServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/servlet/FileUploadServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/util/FileLocationContextListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/util/command/Command.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/util/command/FileApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/util/command/Uploader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/util/command/impl/GetCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/util/command/impl/UploadCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/util/validator/ValidateExecutor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/util/validator/Validator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/util/validator/ValidatorFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/util/validator/impl/NameValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/util/validator/impl/SizeValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/util/validator/impl/TypeValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/barysau/servlet/FileUploadServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/barysau/servlet/FileUploadServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,13 +137,14 @@
     <property name="settings.editor.selected.configurable" value="Lombok plugin" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lemongrass\IdeaProjects\StudLab\FileUploadApp\src\main\webapp\images" />
+      <recent name="C:\Users\Lemongrass\IdeaProjects\StudLab\FileUploadApp\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\Lemongrass\IdeaProjects\StudLab\FileUploadApp\target" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lemongrass\IdeaProjects\StudLab\FileUploadApp" />
       <recent name="C:\Users\Lemongrass\IdeaProjects\StudLab\FileUploadApp\src\main\webapp\WEB-INF" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Lemongrass\IdeaProjects\StudLab\FileUploadApp\src\main\webapp\WEB-INF" />
-      <recent name="C:\Users\Lemongrass\IdeaProjects\StudLab\FileUploadApp\target" />
     </key>
   </component>
   <component name="RunManager">
@@ -240,7 +222,7 @@
       <workItem from="1590423871170" duration="573000" />
       <workItem from="1590424551287" duration="10079000" />
       <workItem from="1590486579953" duration="989000" />
-      <workItem from="1590749186768" duration="2306000" />
+      <workItem from="1590749186768" duration="3918000" />
     </task>
     <task id="LOCAL-00001" summary="!">
       <created>1589980245324</created>
@@ -308,22 +290,22 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="622" y="425" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1590426656471" />
-    <state width="1609" height="283" key="GridCell.Tab.0.bottom" timestamp="1590753892431">
+    <state width="1609" height="283" key="GridCell.Tab.0.bottom" timestamp="1590756968980">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1609" height="283" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1590753892431" />
-    <state width="1609" height="283" key="GridCell.Tab.0.center" timestamp="1590753892431">
+    <state width="1609" height="283" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1590756968980" />
+    <state width="1609" height="283" key="GridCell.Tab.0.center" timestamp="1590756968980">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1609" height="283" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1590753892431" />
-    <state width="1609" height="283" key="GridCell.Tab.0.left" timestamp="1590753892431">
+    <state width="1609" height="283" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1590756968980" />
+    <state width="1609" height="283" key="GridCell.Tab.0.left" timestamp="1590756968980">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1609" height="283" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1590753892431" />
-    <state width="1609" height="283" key="GridCell.Tab.0.right" timestamp="1590753892431">
+    <state width="1609" height="283" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1590756968980" />
+    <state width="1609" height="283" key="GridCell.Tab.0.right" timestamp="1590756968980">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1609" height="283" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1590753892431" />
+    <state width="1609" height="283" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1590756968980" />
     <state width="1557" height="356" key="GridCell.Tab.1.bottom" timestamp="1590419556454">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
